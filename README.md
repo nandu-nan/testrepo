@@ -1,3 +1,3 @@
-oooooo# maven-project
+Version1maven-project
 
 Simple Maven Project
